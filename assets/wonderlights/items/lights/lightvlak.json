@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "wonderlights:lights/lightvlak",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": [1.0, 1.0, 1.0]
+      }
+    ]
+  }
+}
