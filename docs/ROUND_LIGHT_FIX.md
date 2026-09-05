@@ -1,0 +1,1 @@
+Round light fix: keep the original high-resolution light_base texture. Both lightvlak and lightrond are selected through assets/minecraft/items/leather_horse_armor.json so TrainCarts can create leather horse armor based model variants with minecraft:dye tinting.
