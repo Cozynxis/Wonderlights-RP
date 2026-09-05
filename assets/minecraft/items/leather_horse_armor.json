@@ -1,31 +1,11 @@
 {
   "model": {
-    "type": "minecraft:range_dispatch",
-    "property": "minecraft:custom_model_data",
-    "index": 0,
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "wonderlights:lights/lightvlak",
-      "tints": [
-        {
-          "type": "minecraft:dye",
-          "default": [1.0, 1.0, 1.0]
-        }
-      ]
-    },
-    "entries": [
+    "type": "minecraft:model",
+    "model": "wonderlights:item/lightvlak",
+    "tints": [
       {
-        "threshold": 1.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "wonderlights:lights/lightrond",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [1.0, 1.0, 1.0]
-            }
-          ]
-        }
+        "type": "minecraft:dye",
+        "default": [1.0, 1.0, 1.0]
       }
     ]
   }
